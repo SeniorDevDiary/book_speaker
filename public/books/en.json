@@ -1,0 +1,3 @@
+{
+  "text": "To add pause and resume functionality to your existing code, we need to introduce two additional buttons for pausing and resuming speech synthesis, along with modifying the handleSpeak function to control the speech state. Here's how you can do it:"
+}
